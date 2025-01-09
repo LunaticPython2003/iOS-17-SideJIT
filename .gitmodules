@@ -1,0 +1,3 @@
+[submodule "SideJITServer"]
+	path = SideJITServer
+	url = https://github.com/nythepegasus/SideJITServer.git
